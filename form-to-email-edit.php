@@ -6,10 +6,10 @@ if(!isset($_POST['submit']))
 }
 $name = $_POST['fullname'];
 $visitor_email = $_POST['email'];
-$telephone = $_POST['telephone'];
-$date = $_POST['date'];
-$time = $_POST['time'];
-$personcount = $_POST['personcount'];
+//$telephone = $_POST['telephone'];
+//$date = $_POST['date'];
+//$time = $_POST['time'];
+//$personcount = $_POST['personcount'];
 $comment = $_POST['comment'];
 
 //Validate first
